@@ -12,3 +12,4 @@ Use ApplicationClaim to add new microservices:
 ## Current Services
 
 - (Services will be listed here as they are added)
+- user-service (python/fastapi)
